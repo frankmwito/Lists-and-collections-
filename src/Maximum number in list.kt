@@ -11,6 +11,6 @@ fun main() {
     }
 
     val newList = list
-    println(newList.max())
+    println("The biggest element is" + newList.max())
 
 }
