@@ -39,6 +39,7 @@
     "Kotlin.Maximum_number_in_listKt.executor": "Run",
     "Kotlin.Merge_common_elements_in_a_listKt.executor": "Run",
     "Kotlin.Remove_duplicate_values_for_the_listKt.executor": "Run",
+    "Kotlin.Square_of_listsKt.executor": "Run",
     "Kotlin.Sum_of_integers_in_listKt.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -112,7 +113,15 @@
       <option name="project" value="LOCAL" />
       <updated>1720001940655</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="List and collections practice">
+      <option name="closed" value="true" />
+      <created>1720023977172</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1720023977172</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
