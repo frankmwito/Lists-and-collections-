@@ -36,6 +36,7 @@
     "Kotlin.Even_numbersKt.executor": "Run",
     "Kotlin.MainKt.executor": "Run",
     "Kotlin.Maximum_number_in_listKt.executor": "Run",
+    "Kotlin.Sum_of_integers_in_listKt.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -68,7 +69,23 @@
       <option name="project" value="LOCAL" />
       <updated>1719998095428</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="List and collections practice">
+      <option name="closed" value="true" />
+      <created>1719999727333</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1719999727333</updated>
+    </task>
+    <task id="LOCAL-00004" summary="List and collections practice">
+      <option name="closed" value="true" />
+      <created>1719999882741</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1719999882741</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
